@@ -1,0 +1,10 @@
+body{  /*Set background color for body*/
+    background-color:lightgray;
+}
+#para1{ /*Set background color for first paragraph*/
+    color:purple;
+}
+#para2{ /*Set background color for second paragraph*/
+    color:red;
+}
+    
